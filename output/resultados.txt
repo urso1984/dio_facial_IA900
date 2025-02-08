@@ -1,0 +1,2 @@
+foto01.png = a man with his hand on his chin
+foto02.jfif = a city skyline at night
